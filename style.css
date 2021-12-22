@@ -1,0 +1,42 @@
+*{
+    margin:0% ;
+    padding: 0%;
+}
+#nav{
+    background-color:violet ;
+}
+.navbar{
+    list-style-type:none ;
+}
+.nav-list{
+display: inline;
+font-size: 35px;
+
+}
+.nav-item{
+    color: red;
+    text-decoration: none;
+    padding-right: 5px;
+    margin: 5%;
+    transition: 1s;
+}
+.nav-item:hover{
+    color:gray ;
+}
+#heading{
+   text-align:center ;
+   font-size: 40px;
+   
+   color: white;
+   background-color: black;
+}
+#mark{
+    color:red;
+    font-size: 24px;
+}
+#sec{
+    width: 25%;
+}
+.para{
+    display: inline;
+}
